@@ -13,4 +13,5 @@ plt.xlabel('X Axis')
 plt.ylabel('Y Axis')
 
 # Show the plot
+
 plt.show()
